@@ -1,3 +1,2 @@
-# hello-world
-Mein Erstlingswerk
-und schon ist alles __weg__
+# hello-github
+Einstieg in Github 2018-2021
